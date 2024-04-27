@@ -1,10 +1,16 @@
 {
-  "title": "Web Development",
-  "heading": " A strong base in the field of website designing and development  services made us one of the best Web Development Company spanned across India.",
-  "heading1": "Cresol helps businesses to grow with E-commerce, and increase their revenue, and customer reach, through the prime combination of omnichannel presence, and user-centric solutions that deliver seamless and fascinating shopping experiences. We help streamline your daily operations by enabling them with e-commerce systems and various task modules. A unified e-commerce environment is created through APIs or custom integrations between these systems, We give overall permanent control of your e-commerce processes.",
-  "heading2": "With cost-effective solutions tailored to their unique needs, we are top in the industry of providing e-commerce development services for B2C, B2B, C2C, and C2B.",
-  "title2": "What do we do for you?",
+  "breadCrumbTitle": "Web Development",
+  "breadCrumbDescription": " A strong base in the field of website designing and development  services made us one of the best Web Development Company spanned across India.",
+  "description": [
+    {
+      "paragraph": "We have an exclusive set of web developers responsible for creating, designing, deploying, and supporting software customized to your business requirements. Offering you deep expertise, low-risk processes, proven experience, and assured quality on a unified platform."
+    },
+    {
+      "paragraph": "We guarantee you a website that is aesthetically pleasing, well-performing and fast working with the best user experience, so you can appeal to and retain more customers, growing your business by the day."
+    }
+  ],
   "image": "/assets/services/webdevelopment.jpg",
+  "heading": "What do we do for you?",
   "list": [
     {
       "id": "1",

@@ -9,17 +9,22 @@ function WebDevelopment() {
     <StyledDevelopment>
       <div className="main-wrapper">
         <div className="left">
-          <Breadcrumb title={data.title} description={data.heading} />
+          <Breadcrumb
+            title={data.breadCrumbTitle}
+            description={data.breadCrumbDescription}
+          />
           <div className="w-full">
             <img src={data.image} alt="" className="md:rounded-[24px] w-full" />
           </div>
-          <div className="content">
-            <p>{data.heading1}</p>
-            <p>{data.heading2}</p>
-          </div>
+
+          {data?.description.map((d) => (
+            <div className="content">
+              <p>{d.paragraph}</p>
+            </div>
+          ))}
 
           <div>
-            <h5>{data.title2}</h5>
+            <h5>{data.heading}</h5>
             <>
               {data?.list.map((d) => (
                 <div className="content-two">
