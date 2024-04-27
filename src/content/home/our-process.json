@@ -1,0 +1,29 @@
+{
+  "bgImage": "/assets/our-process-bg.jpg",
+  "heading": "Our process",
+  "description": "At Cresol, we follow a rigorous development process to ensure that our solutions are of the highest quality. Our process includes",
+  "list": [
+    {
+      "icon": "/assets/web-design-icon.png",
+      "title": "Design(UI/UX)",
+      "iconDescription": "We create custom designs that are tailored to each client's brand and objectives."
+    },
+    {
+      "icon": "/assets/web-developement-icon.png",
+      "title": "Development",
+      "iconDescription": "We use the latest technologies and best practices to develop high-quality solutions."
+    },
+    {
+      "icon": "/assets/aumation-testing.png",
+      "title": "Testing",
+      "iconDescription": "We thoroughly test our solutions to ensure that they are bug-free and user-friendly."
+    },
+    {
+      "icon": "/assets/launch.png",
+      "title": "Launch",
+      "iconDescription": "We launch our solutions and provide ongoing support to ensure that they continue to meet our clients' needs."
+    }
+  ],
+  "ctaDesciption": "Our Managed IT services will help you succeed.",
+  "ctaText": "Let's Get Started"
+}

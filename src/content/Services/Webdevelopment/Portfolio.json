@@ -1,0 +1,24 @@
+{
+  "heading": "Portfolio",
+  "subHeading": "We love what we do. Our clients tell us the same thing.",
+  "portfolioList": [
+    {
+      "image": "assets/portfolio/webdevelopment/quad.jpg",
+      "link": "https://www.quadtreetech.com/",
+      "heading": " Quadtree Technologies",
+      "description": "Quadtree Technologies is a Big Data Analytics company"
+    },
+    {
+      "image": "assets/portfolio/webdevelopment/knt.jpg",
+      "link": "https://kntech.co.uk/",
+      "heading": "KN Technologies",
+      "description": "it’s not easy to get a well-paid job with a decent employer without putting in the work"
+    },
+    {
+      "image": "assets/portfolio/webdevelopment/eventplanner.jpg",
+      "link": "https://a1eventdecors.com/",
+      "heading": "A1 Event Planners",
+      "description": "Event Planner Ltd is an event logistics and marketing company"
+    }
+  ]
+}

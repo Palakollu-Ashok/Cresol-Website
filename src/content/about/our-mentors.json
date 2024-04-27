@@ -1,0 +1,128 @@
+{
+  "heading": "Our Team",
+  "subHeading": "The truth is, there is no Cresol without our professionals",
+  "endHeading": "We don't just hire talent, we invest in brilliant people.",
+  "mentorsList": [
+    {
+      "image": "/assets/About/Mentors/Yoganand.jpg",
+      "name": "Yoganand Boyapati",
+      "profession": "Business Head - IT Services",
+      "Experience": "20+",
+      "socialLinks": {
+        "facebook": "#",
+        "twitter": "#",
+        "linkedIn": "https://www.linkedin.com/in/yoganand-boyapati-44928b16"
+      }
+    },
+    {
+      "image": "/assets/About/Mentors/Ramesh.jpg",
+      "name": "R Ramesh Babu",
+      "profession": "Lead Experience Designer",
+      "Experience": "15+",
+      "socialLinks": {
+        "facebook": "#",
+        "twitter": "#",
+        "linkedIn": "https://www.linkedin.com/in/rachabattunirameshbabu/"
+      }
+    },
+    {
+      "image": "/assets/About/Mentors/Nagarjuna.jpg",
+      "name": "Nagarjuna J",
+      "profession": "Project Manager",
+      "Experience": "10+",
+      "socialLinks": {
+        "facebook": "#",
+        "twitter": "#",
+        "linkedIn": "http://www.linkedin.com/in/vijaya-nagarjuna-jonnadula-70008a9b"
+      }
+    },
+    {
+      "image": "/assets/About/Mentors/Venki.jpg",
+      "name": "Venki Y",
+      "profession": "Sr HR Manager",
+      "Experience": "10+",
+      "socialLinks": {
+        "facebook": "#",
+        "twitter": "#",
+        "linkedIn": "https://www.linkedin.com/in/venkat-y-60ba6915a"
+      }
+    },
+    {
+      "image": "/assets/About/Mentors/Deepak.jpg",
+      "name": "Deepak Y",
+      "profession": "Business Development Manager",
+      "Experience": "2+",
+      "socialLinks": {
+        "facebook": "#",
+        "twitter": "#",
+        "linkedIn": "https://www.linkedin.com/in/deepak-yanampally-8a9668113"
+      }
+    },
+    {
+      "image": "/assets/About/Mentors/Ramadevi.jpg",
+      "name": "Ramadevi Samala",
+      "profession": "Sr UI/UX Designer",
+      "Experience": "5+",
+      "socialLinks": {
+        "facebook": "#",
+        "twitter": "#",
+        "linkedIn": "https://www.linkedin.com/in/ramadevisamala/"
+      }
+    },
+    {
+      "image": "/assets/About/Mentors/Srinivas.jpg",
+      "name": "Srinivas Y",
+      "profession": "Software Engineer",
+      "Experience": "2+",
+      "socialLinks": {
+        "facebook": "#",
+        "twitter": "#",
+        "linkedIn": "https://www.linkedin.com/in/contact-srinivasyarra"
+      }
+    },
+    {
+      "image": "/assets/About/Mentors/Praveen.jpg",
+      "name": "Praveen Y",
+      "profession": "Jr Software Engineer",
+      "Experience": "2+",
+      "socialLinks": {
+        "facebook": "#",
+        "twitter": "#",
+        "linkedIn": "https://www.linkedin.com/in/praveen-yenibera-91a411187"
+      }
+    },
+    {
+      "image": "/assets/About/Mentors/Siddemma.jpg",
+      "name": "Siddemma T",
+      "profession": "Jr Software Engineer",
+      "Experience": "2+",
+      "socialLinks": {
+        "facebook": "#",
+        "twitter": "#",
+        "linkedIn": "https://www.linkedin.com/in/siddemma-t-47566221a/"
+      }
+    },
+    {
+      "image": "/assets/About/Mentors/Mallika.jpg",
+      "name": "Mallika M",
+      "profession": "Jr Software Engineer",
+      "Experience": "2+",
+      "socialLinks": {
+        "facebook": "#",
+        "twitter": "#",
+        "linkedIn": "https://www.linkedin.com/in/madugundu-mallika-208929244"
+      }
+    },
+    {
+      "image": "/assets/About/Mentors/Shashi.jpg",
+      "name": "Shashi M",
+      "profession": "UI/UX Designer",
+      "Experience": "2+",
+      "socialLinks": {
+        "facebook": "#",
+        "twitter": "#",
+        "linkedIn": "https://www.linkedin.com/mwlite/in/shashidhar-mandawad-360312227"
+      }
+    }
+  ]
+}

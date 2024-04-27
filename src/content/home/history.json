@@ -1,0 +1,34 @@
+{
+  "years": {
+    "totalYears": "5",
+    "heading": "years Experience"
+  },
+  "projects": {
+    "totalProjects": "150",
+    "heading": "Successfully completed projects"
+  },
+  "process": {
+    "heading": "Agile Process",
+    "image": "/assets/agile-icon.png",
+    "bgImage": "/assets/agile.jpg",
+    "description": "We develop enterprise - grade applications employing Agile and Scrum  that enables the delivery of high - priority feature first."
+  },
+  "clients": {
+    "totalClients": "200",
+    "heading": "Happy Clients"
+  },
+  "team": {
+    "heading": "Flexibility in Team Scaling",
+    "description": "Ramp up your team or reduce the number of resources - designers, developers or QAs - anytime as per your needs.",
+    "image": "/assets/team-scalling.png"
+  },
+  "security": {
+    "heading": "Best Security Practices",
+    "image": "/assets/security.png",
+    "description": "High-level security is not an option for enterprise - grade apps - it's a must. We comply with the highest security practices."
+  },
+  "cta": {
+    "text": "More About Us",
+    "slug": "/about"
+  }
+}

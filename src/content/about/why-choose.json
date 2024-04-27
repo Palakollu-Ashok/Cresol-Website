@@ -1,0 +1,30 @@
+{
+  "image": "/assets/About/02.jpg",
+  "heading": " why choose Cresol?",
+  "rightDescription": [
+    {
+      "heading": "Outstanding software",
+      "description": "We deliver potential software with future reliable and compatible technologies"
+    },
+    {
+      "heading": "Highly Skilled Team",
+      "description": "We hire strictly and invest in our people who are results-driven, forward-thinking, and passionate about technology."
+    },
+    {
+      "heading": "Battle-tested process",
+      "description": "We have a fusion network of dedicated testers and freelance crowd testers to contribute to anyone, anywhere."
+    },
+    {
+      "heading": "Beyond Expectation",
+      "description": "We build innovations to go above and beyond and beyond for our client's ideas and never let them down."
+    },
+    {
+      "heading": "Blazing – Timely fast – delivery",
+      "description": "We stay inclined, move fast, and deliver concrete products within timelines in days, not in weeks."
+    },
+    {
+      "heading": "Unbeatable ROI",
+      "description": "We offer quality time, cost, and value equations to every single customer."
+    }
+  ]
+}

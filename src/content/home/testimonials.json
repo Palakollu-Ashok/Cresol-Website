@@ -1,0 +1,20 @@
+{
+  "heading": "Our Happy Clients",
+  "list": [
+    {
+      "description": "I am pleased with the services Cresol Infoserv has provided me to develop the design and functionality of our online shopping website.Cresol Infoserv has helped our web presence grow immensely. I would really like to work with them again.",
+      "personName": "RR Team",
+      "companyName": "RR Jewellers(Ecommerce)"
+    },
+    {
+      "description": "We at Amnet are pleased to find Cresol Infoserv as an ERP solution that offers excellent value, as well as the specific functionality that our business requires. Cresol and our team did a fantastic job of working together to complete this project",
+      "personName": "Amnet Team",
+      "companyName": "Amnet(CMS)"
+    },
+    {
+      "description": "We have approached Cresol Infoserv to create a CMS for our website, and it has completely transformed our content management process. The user-friendly interface, powerful features, and intuitive workflow have made it incredibly easy for our team to update and publish content.Cresol has saved us time and effort, allowing us to focus on delivering excellent service to our audience.",
+      "personName": "HTS Team",
+      "companyName": "HTS(ERP)"
+    }
+  ]
+}

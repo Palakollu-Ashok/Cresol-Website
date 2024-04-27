@@ -1,0 +1,30 @@
+{
+  "heading": "Our Investors",
+  "subHeading": "Our Investors are friendly, talkative, and fully reliable.",
+  "list": [
+    {
+      "image": "/assets/Mallika.jpg",
+      "name": "Srinivas",
+      "profession": "Managing Director",
+      "description": "To direct and control the company's operations and to give strategic guidance and direction to the board to ensure that the company achieves its mission and objectives."
+    },
+    {
+      "image": "/assets/Mallika.jpg",
+      "name": "Srinivas",
+      "profession": "Managing Director",
+      "description": "To direct and control the company's operations and to give strategic guidance and direction to the board to ensure that the company achieves its mission and objectives."
+    },
+    {
+      "image": "/assets/Mallika.jpg",
+      "name": "Srinivas",
+      "profession": "Managing Director",
+      "description": "To direct and control the company's operations and to give strategic guidance and direction to the board to ensure that the company achieves its mission and objectives."
+    },
+    {
+      "image": "/assets/Mallika.jpg",
+      "name": "Srinivas",
+      "profession": "Managing Director",
+      "description": "To direct and control the company's operations and to give strategic guidance and direction to the board to ensure that the company achieves its mission and objectives."
+    }
+  ]
+}

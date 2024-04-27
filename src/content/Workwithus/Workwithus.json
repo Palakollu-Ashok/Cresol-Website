@@ -1,0 +1,31 @@
+{
+  "title": "Careers",
+  "description": "Pilot your career in the right direction, Build your profession that suits your lifestyle, in a company where your voice matters. Let's build a livable world together",
+  "description1": " Working at Cresol means flexibility, trust, growth, and respect.",
+  "description2": "We want to continuously learn and improve so that we maintain a feedback-oriented environment. Most importantly we care about innovative sustainable software, how our activity affects the world,  and each individual employee’s experience. As a certified organization, we offer a safe, comprehensive, and productive environment to all team members, we’re Always open to your feedback accept, and move further.",
+  "title2": "Openings at Cresol Infoserv",
+  "description3": "POSITIVE PLEASURE-ORIENTED GOALS ARE MUCH MORE POWERFUL MOTIVATORS THAN NEGATIVE FEAR-BASED ONES.",
+  "list": [
+    {
+      "id": 1,
+      "title": "Experienced Professionals",
+      "location": "Hyderabad",
+      "postions": "See Open Positions",
+      "Link": "/ExperincedProfessionals"
+    },
+    {
+      "id": 2,
+      "title": "Graduates",
+      "location": "Hyderabad",
+      "postions": "See Open Positions",
+      "Link": "/GradutesPage "
+    },
+    {
+      "id": 3,
+      "title": "Internships",
+      "location": "Gradutes",
+      "postions": "See Open Positions",
+      "Link": "/Internships"
+    }
+  ]
+}

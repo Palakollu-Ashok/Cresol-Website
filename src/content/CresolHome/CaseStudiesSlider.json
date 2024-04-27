@@ -1,0 +1,34 @@
+{
+  "title": "Case Studies",
+  "text": "Know More",
+  "list": [
+    {
+      "id": "1",
+      "heading": "Tenali Double Horse",
+      "image": "/assects/CresoleHome/CaseStudies/tdh.jpg",
+      "title": "Title: Streamlining Operations and Driving Efficiency: A Case Study of Tenali Double Horse ERP Implementation by Cresol Infoserv",
+      "desc": "Introduction: This case study explores the successful implementation of the Tenali Double Horse (TDH) ERP system by Cresol Infoserv in a leading food processing company. The TDH ERP solution was aimed at streamlining operations, improving efficiency, and enabling better decision-making. This case study highlights how Cresol Infoserv collaborated with the company to overcome challenges and achieve significant benefits through the TDH ERP implementation."
+    },
+    {
+      "id": "2",
+      "heading": "HTS Bio Pharma",
+      "image": "/assects/CresoleHome/CaseStudies/hts.jpg",
+      "title": "Title: Accelerating Growth and Compliance: A Case Study of HTS Bio Pharma ERP Implementation by CRESOL INFOSERV",
+      "desc": "The HTS Bio Pharma ERP solution is specifically tailored to the needs of the biopharmaceutical industry, offering comprehensive features to streamline operations, enhance regulatory compliance, and optimize resource utilization. This case study explores how Cresol Infoserv helped the pharmaceutical company achieve significant benefits through the adoption of HTS Bio Pharma ERP."
+    },
+    {
+      "id": "3",
+      "heading": "RR Jewellers",
+      "image": "/assects/CresoleHome/CaseStudies/rr.jpg",
+      "title": "Title: Revolutionizing Online Jewelry Retail: A Case Study of RR Jewelers' E-commerce Implementation by Cresol Infoserv.",
+      "desc": "This case study highlights the successful collaboration between RR Jewelers, a renowned jewelry retailer, and Cresol Infoserv in implementing an e-commerce platform. The objective was to drive online sales growth, enhance the customer shopping experience, and expand market reach. This case study explores how Cresol Infoserv helped RR Jewelers leverage e-commerce solutions to overcome challenges and achieve remarkable business outcomes."
+    },
+    {
+      "id": "4",
+      "heading": "Amnet",
+      "image": "/assects/CresoleHome/CaseStudies/amnet.jpg",
+      "title": "Amnet CMS Project by Cresol Infoserv",
+      "desc": "Introduction: Cresol Infoserv, a renowned software development company, undertook the Amnet CMS project for a client in the manufacturing industry. The Amnet CMS project aimed to implement an end-to-end Enterprise Resource Planning (ERP) solution to streamline the client's business processes, optimize operations, and improve overall efficiency. This case study highlights the key objectives, strategies, and outcomes of Cresol's Amnet CMS implementation project."
+    }
+  ]
+}

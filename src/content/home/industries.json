@@ -1,0 +1,32 @@
+{
+  "industries": [
+    {
+      "title": "Pharmaceutical",
+      "image": "/assets/Pharmasuiticals.svg"
+    },
+    {
+      "title": "Education & Learning",
+      "image": "/assets/Education_Learning.svg"
+    },
+    {
+      "title": "Food & Hospitality",
+      "image": "/assets/Food_Hospitality.svg"
+    },
+    {
+      "title": "Health & Fitness",
+      "image": "/assets/Health_Fitness.svg"
+    },
+    {
+      "title": "Finance & Marketing",
+      "image": "/assets/Finance_Marketing.svg"
+    },
+    {
+      "title": "Real Estate",
+      "image": "/assets/Real_Estate.svg"
+    },
+    {
+      "title": "Startups",
+      "image": "/assets/Startups.svg"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "heading": "SERVICES",
+  "cards": [
+    {
+      "id": 1,
+      "title": "UI/Ux Design",
+      "image": "/assects/CresoleHome/UIuxdesign.svg",
+      "link": "/UxDesign"
+    },
+    {
+      "id": 2,
+      "title": "Web Development",
+      "image": "/assects/CresoleHome/website.svg",
+      "link": "/Webdevelopment"
+    },
+    {
+      "id": 3,
+      "title": "Mobile Development",
+      "image": "/assects/CresoleHome/mobileapp.svg",
+      "link":"/MobileAppDevelopment"
+    },
+    {
+      "id": 4,
+      "title": "Testing",
+      "image": "/assects/CresoleHome/Testing.svg",
+      "link":""
+    },
+    {
+      "id": 5,
+      "title": "Digital Markiting",
+      "image": "/assects/CresoleHome/Digitalmarketing.svg",
+      "link":""
+    }
+  ]
+}

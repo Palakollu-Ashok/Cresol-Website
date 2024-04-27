@@ -1,0 +1,38 @@
+{
+  "title": "Case Studies ",
+  "heading": " We love what we do. Our clients tell us the same thing.",
+  "cards": [
+    {
+      "id": "1",
+      "title": "Tenali Double Horse",
+      "description": "Online Pulses Store",
+      "text": "Explore",
+      "image": "/assets/Casestudies/RishikaSunnundalu.jpg",
+      "link": "/Tenalipage"
+    },
+    {
+      "id": "2",
+      "title": "HTS",
+      "description": "BioPharma",
+      "text": "Explore",
+      "image": "/assets/Casestudies/hts.jpg",
+      "link": "/HtsProjectpage"
+    },
+    {
+      "id": "3",
+      "title": "Amnet",
+      "description": "Our Team Developed",
+      "text": "Explore",
+      "image": "/assets/Casestudies/amnet3.jpg",
+      "link": "/Amnet"
+    },
+    {
+      "id": "4",
+      "title": "RR Jewellary",
+      "description": "RR Jewellary Online",
+      "text": "Explore",
+      "image": "/assets/Casestudies/rr4.jpg",
+      "link": "/RR-jewellary"
+    }
+  ]
+}

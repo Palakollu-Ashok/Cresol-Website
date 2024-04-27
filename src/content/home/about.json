@@ -1,0 +1,15 @@
+{
+  "heading": "About Us",
+  "image": "/assets/home/about.jpg",
+  "rightDescription": [
+    {
+      "description": "Cresol Infoserv is a tech and IT Platform offering various services and resources from web and mobile app design and development to digital marketing. What sets it apart from other platforms in this niche is its focus on linking business ideas and businesses. We are committed to Quality – client satisfaction."
+    },
+    {
+      "description": "Our Tech savvy at Cresol goes above and beyond to ensure that each client is happy with the final product. In addition, the output either Web – Mobile app or any is easy to navigate, and the design is clean and modern that exceeds client anticipations."
+    },
+    {
+      "description": "Trust is the fundament of our culture. We’re eye-catching on unique designs, robust solutions, and customized tools for any business type like start-ups, MSMEs SMEs, and MNCs for any country like the USA, Canada, UK, Australia and more... Cresol Infoserv is an exemplary choice for a global tech and IT solution."
+    }
+  ]
+}

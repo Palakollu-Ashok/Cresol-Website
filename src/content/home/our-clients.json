@@ -1,0 +1,70 @@
+{
+  "heading": "Our Clients",
+  "list": [
+    {
+      "name": "acade craft",
+      "icon": "/assets/Home/clientLogos/acade.svg",
+      "link": "https://www.acadecraft.com/"
+    },
+    {
+      "name": "ace pro india",
+      "icon": "/assets/Home/clientLogos/ace.svg",
+      "link": "https://www.aceproindia.com/"
+    },
+    {
+      "name": "amnet-systems",
+      "icon": "/assets/Home/clientLogos/amnet.svg",
+      "link": "https://amnet-systems.com/"
+    },
+    {
+      "name": "apex covantage",
+      "icon": "/assets/Home/clientLogos/apex.svg",
+      "link": "https://apexcovantage.com/"
+    },
+    {
+      "name": "arinos",
+      "icon": "/assets/Home/clientLogos/arinos.svg",
+      "link": "https://arinos.in/"
+    },
+    {
+      "name": "codemantra",
+      "icon": "/assets/Home/clientLogos/codeMantra.svg",
+      "link": "https://codemantra.com/"
+    },
+    {
+      "name": "hts biopharma",
+      "icon": "/assets/Home/clientLogos/hts.svg",
+      "link": "https://htsbiopharma.com/"
+    },
+    {
+      "name": "jouve",
+      "icon": "/assets/Home/clientLogos/jouve.svg",
+      "link": "https://jouve.in/"
+    },
+    {
+      "name": "mps limited",
+      "icon": "/assets/Home/clientLogos/mps.svg",
+      "link": "https://www.mpslimited.com/"
+    },
+    {
+      "name": "nebula group of companies",
+      "icon": "/assets/Home/clientLogos/nebula.svg",
+      "link": "https://www.nebulagroupofcompanies.com/#"
+    },
+    {
+      "name": "pure software",
+      "icon": "/assets/Home/clientLogos/pure.svg",
+      "link": "https://www.puresoftware.com/"
+    },
+    {
+      "name": "ssgroup",
+      "icon": "/assets/Home/clientLogos/ssGroups.svg",
+      "link": "https://www.ssgroup-india.com/"
+    },
+    {
+      "name": "straive",
+      "icon": "/assets/Home/clientLogos/strive.svg",
+      "link": "https://www.straive.com/"
+    }
+  ]
+}
