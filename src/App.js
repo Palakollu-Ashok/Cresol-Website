@@ -20,6 +20,19 @@ import TalktoExpert from "./components/Pages/TalkToExpertPage";
 import WebDevlopmentPage from "./components/Pages/services-pages/It-services-page.js/WebDevlopmentPage";
 import Thanks from "./components/common/Thanks";
 import Privacypolicy from "./components/PrivcyPolicy/Privacypolicy";
+import MobileAppDevPage from "./components/Pages/services-pages/It-services-page.js/MobileAppDevPage";
+import EcommercePage from "./components/Pages/services-pages/It-services-page.js/EcommercePage";
+import UiUxDevelopment from "./components/Pages/services-pages/It-services-page.js/UiUxDevelopmentPage";
+import ProductDevelopmentPage from "./components/Pages/services-pages/It-services-page.js/ProductDevelopmentPage";
+import ErpSolutionsPage from "./components/Pages/services-pages/It-services-page.js/ErpSolutionsPage";
+import FunctionalTestingPage from "./components/Pages/services-pages/Testing/FunctionalTestingPage";
+
+import PerformanceTesting from "./components/Pages/services-pages/Testing/PerformanceTestingPage";
+import SecurityTestingPage from "./components/Pages/services-pages/Testing/SecurityTestingPage";
+import UsabilityTestingPage from "./components/Pages/services-pages/Testing/UsabilityTestingPage";
+import SearchEnginePage from "./components/Pages/services-pages/DigitalMarkting/SerachEnginePage";
+import SMMPage from "./components/Pages/services-pages/DigitalMarkting/SMMPage";
+import BrandingPage from "./components/Pages/services-pages/DigitalMarkting/BrandingPage";
 // import ScrollToTop from "./components/common/ScrollToTop";
 const App = () => {
   return (
@@ -52,7 +65,48 @@ const App = () => {
           path="/web-developement-service"
           element={<WebDevlopmentPage />}
         />
+        <Route
+          path="/mobile-app-development-service"
+          element={<MobileAppDevPage />}
+        />
+        <Route path="/ui-ux-design-service" element={<UiUxDevelopment />} />
 
+        <Route
+          path="/e-commerce-development-service"
+          element={<EcommercePage />}
+        />
+        <Route
+          path="/product-development-service"
+          element={<ProductDevelopmentPage />}
+        />
+
+        <Route path="/erp-solutions" element={<ErpSolutionsPage />} />
+
+        {/* /Testing Services */}
+
+        <Route
+          path="/functional-testing-service"
+          element={<FunctionalTestingPage />}
+        />
+        <Route
+          path="/performance-testing-service"
+          element={<PerformanceTesting />}
+        />
+        <Route
+          path="/security-testing-service"
+          element={<SecurityTestingPage />}
+        />
+        <Route
+          path="/usability-testing-service"
+          element={<UsabilityTestingPage />}
+        />
+        {/* Digital MAtkting */}
+        <Route
+          path="/searchEngine-Optimization-services"
+          element={<SearchEnginePage />}
+        />
+        <Route path="/branding-services" element={<BrandingPage />} />
+        <Route path="/socialmedia-marketing-services" element={<SMMPage />} />
         <Route path="/thanks" element={<Thanks />} />
 
         <Route path="/privacy-policy" element={<Privacypolicy />} />

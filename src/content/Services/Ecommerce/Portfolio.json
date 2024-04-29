@@ -1,0 +1,13 @@
+{
+  "heading": "Portfolio",
+  "subHeading": "We love what we do. Our clients tell us the same thing.",
+  "portfolioList": [
+    {
+      "id": "1",
+      "image": "assets/portfolio/Ecommerce/vijaya.jpg",
+      "link": "https://www.quadtreetech.com/",
+      "heading": " Vijaya Pickles",
+      "description": "Spicy & tasty chicken pickle. Contact us to place the order now!"
+    }
+  ]
+}

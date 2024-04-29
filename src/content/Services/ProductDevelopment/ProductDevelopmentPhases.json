@@ -1,0 +1,32 @@
+{
+  "title": " Development Phases at Cresol",
+  "image": "/assets/services/webService.png",
+
+  "list": [
+    {
+      "id": 1,
+      "heading": "Development Phases at Cresol",
+      "title": "CREATE A ROAD MAP:",
+      "number": "01",
+      "description": "In this phase, the project-dedicated team works to create the technical design, task list, resource plan if required, communication plan, budget, and schedules and establishes the roles and responsibilities. A well-thought-out project plan is designed with a clear direction and understanding of the client's ideas with team contributions for a successful project."
+    },
+    {
+      "id": 2,
+      "title": "ROAD MAP IMPLEMENTATION FOR TOPMOST RESULTS:",
+      "number": "02",
+      "description": "In this phase project planning involves action. Our expertise will work on using the machine, resources, and materials to design software code specified within the project requirements document and project plan. Each phase of development is documented for client understanding and evolves a detailed orientation of what and why action took place."
+    },
+    {
+      "id": 3,
+      "title": "INTEGRATION AND TESTING.:",
+      "number": "03",
+      "description": "Once the product is built, it’s time to undergo the testing phase Our Balanced mix of Manual and Automation testing involves continuous integration, functional testing, system testing, interoperability testing, as well as user acceptance testing. Ensuring the product is as per the created road map, We integrate all features of the application into one system. This system will be later tested guaranteeing a smooth flow of the application, code if free of errors, and your business goals."
+    },
+    {
+      "id": 4,
+      "title": "DEPLOY AND MAINTAINANCE.:",
+      "number": "04",
+      "description": "In this phase, we deploy designed code into different environments such as testing, staging, and production. We automate the process to reduce human errors and enable continuous integration and delivery (CI/CD). We optimize deployment and maintenance resources and costs without compromising on performance. Security, and User-satisfaction. We ensure the quality, reliability, and compatibility of your ideas to the market phase."
+    }
+  ]
+}

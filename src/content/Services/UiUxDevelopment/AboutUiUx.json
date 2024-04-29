@@ -1,0 +1,70 @@
+{
+  "breadCrumbTitle": "UI/UX Design ",
+  "breadCrumbDescription": "Make a lasting impression with Cresol Infoserv's UI/UX design services. We craft intuitive and visually stunning interfaces for your digital products. ",
+  "description": [
+    {
+      "paragraph": "Partner with Cresol for a full-paced digital innovation. As a technology company we say UI/UX is the heart of the company and user experience designers finally set a table. We have well-equipped digital product design departments consisting of user researchers, UX consultants, UI/UX designers, and interaction designers. We transform your brands through high-altitude digital experiences."
+    },
+    {
+      "paragraph": "We have helped organizations design breakthrough brands, services, and experiences with a voting strategy accessible to everyone. We are globally specialized in strategies, user experience design, user interface, website design, and development. As a design entity, we create mobile apps, websites, and digital experiences what not END to END. Our ‘ information architecture design’ is the foundation of user experience that creates endless traffic accessing your business globally.     "
+    }
+  ],
+  "image": "/assets/services/ui-ux-designing.jpg",
+  "heading": "What do we do for you?",
+  "list": [
+    {
+      "id": "1",
+      "title": "BRANDING",
+      "description": "Branding is our core approach, we bridge UX and brand are closely connected, and work together. Our expertise is in creating and elevating digital brand identity across channels, providing strategic assistance and guidelines to ensure uniformity.",
+
+      "desc1": " Brand Architecture",
+      "desc2": "  Brand strategy",
+      "desc3": "   Visual Identity",
+      "desc4": "   Verbal Identity",
+      "desc5": "  Brand Advice",
+      "desc6": "   Brand Awareness"
+    },
+    {
+      "id": "2",
+      "title": "DIGITAL PRODUCTS",
+      "description": "Cresol believes in exceptional user experience, whether using a product at work or in free hours. We design memorable entities and consumer products as well as offer comprehensive design systems for effortless product consistency.",
+
+      "desc1": "Designing instinctive interfaces",
+      "desc2": "Pilot Research",
+      "desc3": "Focus on Visual UI Design",
+      "desc4": "Create Aesthetically-pleasing interfaces"
+    },
+    {
+      "id": "3",
+      "title": "UX RESEARCH",
+      "description": "Cresol makes a systematic study of target users and their expectations, to add realistic content that insights to design processes. Our researchers adopt various methods for irresolvable problems and design opportunities. In the process, they reveal valuable information that can be fed into the design process.",
+
+      "desc1": "Customer and stakeholder feedback",
+      "desc2": "Ecosystem Mapping",
+      "desc3": "Examining Analysis",
+      "desc4": "Blending trends and behaviour"
+    },
+    {
+      "id": "4",
+      "title": "Wireframes and Prototyping",
+      "description": "Cresol believes in exceptional user experience, whether using a product at work or in free hours. We design memorable entities and consumer products as well as offer comprehensive design systems for effortless product consistency.",
+
+      "desc1": "Incremental prototyping",
+      "desc2": "Evolutionary prototyping",
+      "desc3": "Concept sketch prototype",
+      "desc4": "Visual model prototype",
+      "desc5": "Bench model prototype"
+    },
+    {
+      "id": "5",
+      "title": "Competitive landscape Analysis",
+      "description": "An extensive analysis of the competitive landscape is conducted to identify opportunities for differentiation. We focus on key areas to create a design that stands out to be identified by analyzing competitor’s strengths and weaknesses. Our expertise works on strategic insights into the features, functions, flows, and feelings evoked by the design solutions of your competitors.",
+
+      "desc1": "Outline your goals",
+      "desc2": "Identity Competitors",
+      "desc3": "Define your business parameters",
+      "desc4": "Usability test and research",
+      "desc5": "Encapsule and present your target audience"
+    }
+  ]
+}

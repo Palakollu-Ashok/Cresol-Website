@@ -1,0 +1,31 @@
+{
+  "breadCrumbTitle": "E-commerce Development",
+  "breadCrumbDescription": " Transform your business with Cresol Infoserv's e-commerce development solutions. Drive sales and enhance customer experience with our tailored services.",
+  "description": [
+    {
+      "paragraph": "Cresol helps businesses to grow with E-commerce, and increase their revenue, and customer reach, through the prime combination of omnichannel presence, and user-centric solutions that deliver seamless and fascinating shopping experiences. We help streamline your daily operations by enabling them with e-commerce systems and various task modules. A unified e-commerce environment is created through APIs or custom integrations between these systems, We give overall permanent control of your e-commerce processes."
+    },
+    {
+      "paragraph": "With cost-effective solutions tailored to their unique needs, we are top in the industry of providing e-commerce development services for B2C, B2B, C2C, and C2B."
+    }
+  ],
+  "image": "/assets/services/webdevelopment.jpg",
+  "heading": "What do we do for you?",
+  "list": [
+    {
+      "id": "1",
+      "title": "E-commerce Analytics :",
+      "description": "We attire your website with analytical tools to navigate your e-commerce growth. For ex: We define customer identity with aggregated    analytics, Forecast demands, optimal pricing and sales with Sale analytics, Discover audience attitude with Sentimental analytics, and   Module customer behavior with Predictive Analytics. We help you take   the whip hand of big data to maximize the conversion of traffic,    visitors to customers, and increase the spending habits of current  customers, and enhance customer satisfaction."
+    },
+    {
+      "id": "2",
+      "title": "E-commerce consulting :",
+      "description": "We are Not only in development services but also offer advisory    services to help retailers improve their operations and performance.   We help clients create long-term user-centric strategies supported by   an optimal set of technologies. We bring business analysis for  existing and future e-commerce solutions assessing effectiveness from   usage and management mind frame. We review customer-facing and   back-end tailored solutions advising on security compliance and best   data protection practices."
+    },
+    {
+      "id": "3",
+      "title": "E-commerce Support :",
+      "description": "While you focus on your business goals, Our team takes responsibility for the maintenance of your e-commerce platform to run smoothly and keep it up-to-date. Resolving Technical issues in different environments, keeping your infrastructure at functional capacity, delivering software back-ups, and upgrades, Preventing major crashes and downtime, and providing ongoing technical support and consulting, We deliver the best support services to reach customer expectations."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "title": " Development Phases at Cresol",
+  "image": "/assets/services/webService.png",
+
+  "list": [
+    {
+      "id": 1,
+      "heading": "Development Phases at Cresol",
+      "title": "Validate actual user scenarios:",
+      "number": "01",
+      "description": "We cover the full spectrum of functional testing to put your software through an in-depth evaluation for better functionality and usability of your software. We also help in identifying the issues and fixing them with minimal time consumption. Our team will work closely with the developers to understand the defect’s origin and ensure that the issues are resolved without causing any error to the existing functionality of the software."
+    },
+    {
+      "id": 2,
+      "title": "Data-driven decision making:",
+      "number": "02",
+      "description": "Cresol works for all approaches and utilizes data-driven decision-making to optimize the testing efforts; by analyzing testing metrics, patterns, and trends. Our professionals attain valuable vision into the performance of your software and determine the areas for improvement for fine-tuning the testing strategy."
+    },
+    {
+      "id": 3,
+      "title": "Mapping customized test scenarios and test Cases:",
+      "number": "03",
+      "description": "Cresol is unique, Our professional’s tailored approach to the requirements depending on the software, designs customized test scenarios and cases. We ensure that critical functionalities are thoroughly tested, minimizing the possibility of functional defects sliding through the cracks."
+    },
+    {
+      "id": 4,
+      "title": "Evidential Track record:",
+      "number": "04",
+      "description": "Cresol has an evidential track record of delivering successful testing solutions for diverse clients and industries. Our case studies exhibit how our team expertise helped in optimizing software performance and increasing user experience as per the client requirements prioritizing customer satisfaction."
+    },
+    {
+      "id": 5,
+      "title": "Robust test environment setup:",
+      "number": "05",
+      "description": "We create a robust test environment setup that closely simulates the product environment. Cresol accredits accurate simulation of real-world scenarios to uncover functional incongruity in various usage scenarios. We make it quicker involving both Manual and Automation testing."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "breadCrumbTitle": "Search Engine Optimization",
+  "breadCrumbDescription": "Boost your online visibility with Cresol Infoserv's search engine optimization services. Drive organic traffic and maximize your digital presence.",
+  "description": [
+    {
+      "paragraph": "Let’s face it. Most of the businesses fight to generate consistent leads and sales. As one of the top SEO agencies across India, Australia, USA, and more, We develop and design custom SEO services evidential to get you more organic traffic and increase your customer base. Request for a free demo today."
+    }
+  ],
+  "image": "/assets/services/seo-banner.jpg",
+  "heading": "What makes you need SEO?",
+  "list": [
+    {
+      "id": "1",
+      "title": "We heard below from our clients who contacted our experts",
+      "li1": "You can’t hire an in-house SEO team",
+      "li2": "Your website isn’t found online",
+      "li3": "You’re falling behind the competition",
+      "li4": "You need more leads/ sales",
+      "li5": "Your website traffic has diminished recently and you don’t know why",
+      "li6": "You are not sure what you paid in the past",
+      "li7": "You are starting a new website and want to step up your business quickly",
+      "desc": "Providing SEO Solutions through our experts"
+    },
+    {
+      "id": "2",
+      "title": "Keyword research",
+      "description": "Right keywords drive sales leads to your business. Your dedicated SEO expert will review the keywords that are used by your website currently and their position of ranking, take your Wishlist, and conduct additional keyword research to build the most sense and competitive landscape."
+    },
+    {
+      "id": "3",
+      "title": "Technical SEO",
+      "description": "When you make search engines happy, your rankings can make you even happier. Rankings upgrade with optimizations on your website’s back end, such as revamping page speed. Fixing these errors, it makes easier for search engines when users drag your website."
+    },
+    {
+      "id": "4",
+      "title": "On-page SEO",
+      "description": "Our SEO Expertise publishes unique, well-to-do content that optimizes your taglines and HTML tags and utilizes high-resolution images. Enrich your online visibility and get high-quality traffic. We ensure our SEO services are aligned with search engine best practices to wrap up the website’s trustworthiness."
+    },
+    {
+      "id": "5",
+      "title": "Off-page SEO",
+      "description": "Off-page SEO plays a vital role in building brand credibility and improving online exposure. We attach social media marketing, link building, and influencer marketing to generate qualified links and positive rankings. Partner with us to experience the industry expertise and stand with best SEO practices."
+    },
+    {
+      "id": "6",
+      "title": "Local SEO",
+      "description": "About 64 percent of users search for local businesses online as per statistics. Enhance your company’s local business with a Google Business profile or Google My Business (GMB) optimization and attract high-desire customer reach. We optimize your GMB profile and manage your local business online goodwill run successfully."
+    },
+    {
+      "id": "7",
+      "title": "E-commerce SEO",
+      "description": "Cresol offers a 24/7 convenient shopping experience and improves your customer retention rate. We introduce targeted email marketing and optimize your site for mobile and voice search to provide a personalized brand experience."
+    },
+    {
+      "id": "4",
+      "title": "Content Writing",
+      "description": "We have a pool of content writers that bring out SEO-friendly content for your website, whether that creates quota-worthy blog posts or optimizes pre-existing service and product pages with elaborate content. The search engine is fond of a website that adds content on a regular basis. Work with us together to support your content needs and build your search marketing."
+    },
+    {
+      "id": "4",
+      "title": "Conversion Rate Optimization",
+      "description": "Grow your lifetime’s customer value and raise online revenue with Cresol CRO services. We integrate pay-per-click with our SEO services to maximize your conversion opportunities. We perform website analysis, landing page optimization, and A/B split testing."
+    }
+  ]
+}

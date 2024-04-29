@@ -1,0 +1,31 @@
+{
+  "title": " What proves that you outrank your competitors?",
+  "image": "/assets/services/webService.png",
+
+  "list": [
+    {
+      "id": 1,
+      "title": "Our Experience:",
+      "number": "01",
+      "description": "Cresol helped businesses across all industries to grow their customer base, and online presence and build more revenue. We have experienced client success stories to support and guide any size business that wants to increase customer organic traffic and grow potential leads by converting sales. We all jump in, with team collaboration for an increase in customer reach as per user expectations through tailored solutions."
+    },
+    {
+      "id": 2,
+      "title": "Dedicated/ SMM Professionals:",
+      "number": "02",
+      "description": "We offer each client with a single point of contact to manage your project. They will get to know your business and understand your needs hence we drive a technical, complicated, and overwhelming search engine optimization process as ease as possible. We accomplish what you believe in our job."
+    },
+    {
+      "id": 3,
+      "title": "Relationships & Results:",
+      "number": "03",
+      "description": "We drive two primary important values relationships and results that every client is our pillar, our experts are specialized in helping all sizes of businesses from small – large, national franchises, result in exponential growth. We believe in owning the voice of the clients and work smart every day to make it a proven analysis."
+    },
+    {
+      "id": 4,
+      "title": "Transparent reporting:",
+      "number": "04",
+      "description": "You can experience first-hand how our efforts are increasing your online revenue, We don’t work like smoke and mirrors. Our custom solutions include business Analytical reports to give you an overview of your site’s performance, regularly upgraded keyword rankings, and a monthly breakdown of the SMM tasks we have implemented."
+    }
+  ]
+}

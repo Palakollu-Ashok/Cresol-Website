@@ -1,0 +1,64 @@
+{
+  "breadCrumbTitle": "Security Testing",
+  "breadCrumbDescription": "Protect your digital assets with Cresol Infoserv's security testing services. Stay ahead of threats and safeguard your data with our expert solutions.",
+  "description": [
+    {
+      "id": 1,
+      "paragraph": "We adopt transformational security testing solutions, rather than today’s agile development life cycles that introduce new code daily, we offer security testing methodology that often treats all assets the same despite varied risk levels."
+    },
+    {
+      "id": 2,
+      "paragraph": "Our strategic approach extends continuous pen-testing and refines guidance that actually improves security posture, unlike more calculated approaches that give success when controllers are satisfied. With the Cresol platform entities can have effective security solutions that bond to their unique and security testing demands."
+    },
+
+    {
+      "id": 3,
+      "title": "All testing needs on One platform – Cresol:",
+      "li1": "Identifying the root causes of your organization’s accountabilities",
+      "li2": "On-demand and Continuous testing",
+      "li3": "Accountability management and patch verification",
+      "li4": "Real-time and actionable analytics",
+      "li5": "Top-tier customer support (24/7) as per client needs"
+    }
+  ],
+  "image": "/assets/services/security-testing.jpg",
+  "heading": "What do we do for you?",
+
+  "list": [
+    {
+      "id": "1",
+      "description": "Cresol is well managed by a group of information security geniuses & experienced professionals with strong technical and innovative minds. Between us, we have years of experience in security testing and are recognized by technological giants in the industry.",
+      "desc1": "We blend human and artificial intelligence to minimize your business risks",
+      "desc2": "We provide tightened security measures that meet compliance mandates",
+      "desc3": "We take actionable insights into weaknesses and strengths in order to improve the current security benchmark against best practices in the industry.",
+      "desc4": "We implement mitigation strategies to understand, anticipate, and respond to the changing regulatory landscape."
+    },
+    {
+      "id": "2",
+      "title": "Application Security",
+      "description": "Whether it is Web/ mobile application, Our expertise in automated tests is designed to cover a vast range of common vulnerabilities, while our manual tests are tailored to your specific application. We strengthen the application to simulate real-world attacks as far as possible to provide an accurate picture of your application security. We are so far more successful in finding basic and vast vulnerabilities than other companies. Proven in"
+    },
+    {
+      "id": "3",
+      "title": "API Security",
+      "description": "Cresol implements API Security to identify SQL injection attacks, cross-site scripting attacks, and privilege escalation attacks. This will help to assess the potential of security controls like authentication and authorization mechanisms. It also helps in identifying the vulnerabilities before they can be exploited by hackers or hostile actors."
+    },
+    {
+      "id": "4",
+      "title": "Architecture Review",
+      "description": "We perform architecture reviews at different stages in the development life cycle, from early concept to final implementation. The range of reviews will be robust to your specific requirements and objectives, which will help you avoid expensive mistakes. We recommend corrective actions and potential vulnerabilities with the help of a comprehensive review. We ensure that your system is secure, efficient, and fit for the purpose."
+    },
+    {
+      "id": "5",
+      "title": "Threat Modelling.",
+      "description": "We inform where to allocate resources by understanding the organizational landscape and identifying the gaps. There are a number of threat modelling approaches but we follow a common goal-reach approach service in place. We follow popular threat modelling approaches like the Microsoft threat modelling framework and the STRIDE model. You can give your business the best possible chances of hindering today's sophisticated threats."
+    },
+    {
+      "id": "6",
+      "title": "Cloud Security",
+      "description": "We offer AWS, Azure, and GCP security testing where AWS to stay on top of potential security lapses, AWS configuration review, misconfiguration issues that allow unauthorized access, and exposure of sensitive information, we follow CIS benchmarks to ensure that no stone is left when checking cloud security gaps.",
+      "description2": "Our Azure experts thoroughly evaluate the configuration and IAM policies are applied to those services. We provide recommendations on how to fix potential exploitation in the cloud, and misconfigurations including human error or lack of understanding of Azure security best practice. We ensure Azure environment is secure and compliant.",
+      "description3": "Our researchers are highly skilled and experienced with an in-depth knowledge of understanding the GCP platform and its security features. We utilize the manual approach to find the security issues, rather than the automation scanning tools. This allows our experts to better understand organization’s system and resources are configured and how to protect them from unauthorized access or data breaches."
+    }
+  ]
+}

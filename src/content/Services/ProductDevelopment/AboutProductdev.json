@@ -1,0 +1,46 @@
+{
+  "breadCrumbTitle": "Product Development",
+  "breadCrumbDescription": "Looking for reliable Product Development Services? We specialize in bringing ideas to life.Let's turn your concepts into market-ready solutions together.",
+  "description": [
+    {
+      "paragraph": "Cresol develops custom software product development services that enable a robust digital transformation for your business. It can be anything from developing a new product, upgrading an existing product, or improving the process, technique, or development methodology of the system. Development and innovation pave the way for new products to deliver maximal outcomes within your existing technology ecosystem."
+    },
+    {
+      "paragraph": "Our unique methodology includes exploiting new technologies and adapting industry-leading practices, with an aim to deliver tangible benefits for your businesses to grow."
+    }
+  ],
+  "image": "/assets/services/product-developement.jpg",
+  "heading": "What do we do for you?",
+  "list": [
+    {
+      "id": "1",
+      "title": "CUSTOM SOFTWARE DEVELOPMENT :",
+      "description": "We assist you in developing Quick-witted digital applications that enhance end-user experiences while increasing optimal efficiency, development, design, and implementation for a future-ready digital strategy."
+    },
+    {
+      "id": "2",
+      "title": "SPIN-OFF APPLICATION REFURBISHMENT :",
+      "description": "Even if you need to reduce downtime or transition from column to microservices, trust our expertise to redesign and recreate your current systems."
+    },
+    {
+      "id": "3",
+      "title": "WEB APP DEVELOPMENT :",
+      "description": "We always-on focus on scalability, compatibility, and security to construct responsive web/mobile app platforms that drive larger engagement and increase traffic adoption rates."
+    },
+    {
+      "id": "4",
+      "title": "MOBILE APP DEVELOPMENT :",
+      "description": "Associate with Cresol to develop mobile apps that categorize uncomplicated user onboarding, minimalist design, and self-guided workflows. We offer personalized experiences that stretch across multiple devices."
+    },
+    {
+      "id": "5",
+      "title": "FULL STACK SOFTWARE DEVELOPMENT :",
+      "description": "Utilizing our ample expertise in JavaScript frameworks, jQuery, PHP, Node, Angular, Python, and more, we help in building a flexible, and scalable back-end as well as a responsive front-end."
+    },
+    {
+      "id": "6",
+      "title": "CLOUD NATIVE DEVELOPMENT :",
+      "description": "Join us to tackle the scale, elasticity, resiliency, and flexibility cloud-native applications offer."
+    }
+  ]
+}

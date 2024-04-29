@@ -1,0 +1,44 @@
+{
+  "breadCrumbTitle": "Usability Testing",
+  "breadCrumbDescription": "Enhance user satisfaction with Cresol Infoserv's usability testing services. Ensure your digital products are intuitive and easy to use.",
+  "description": [
+    {
+      "id": 1,
+      "paragraph": "Cresol builds real comprehension from Real world environment. We evaluate user experience when interacting with a Website or Mobile application for better user experience and expose your product to real people. This identifies problems that you may have missed asking real users rather than the resources of developers or testers. The results, success rate, and outlay taken to complete the tasks are then analyzed to identify the extensive issues and areas of improvement. We aim to create a product with a positive experience that meets customer objectives."
+    }
+  ],
+  "image": "/assets/services/usability-testing.jpg",
+  "heading": "Types of usability testing - we perform",
+
+  "list": [
+    {
+      "id": "1",
+      "title": "Quantitative or Qualitative",
+
+      "description": "Understanding user experiences, feeling and thoughts while using a product we think-aloud study where users verbalize their thoughts. We gather qualitative data through observations and surveys whereas Quantitative data is gathered from testing focusing on collecting analytical and numerical data like success rate, task completion times and error rates. Through qualitative and quantitative data we identify patterns, make predictions and generalize any findings that meet the customer satisfaction in using your product."
+    },
+    {
+      "id": "2",
+      "title": "Moderated or Unmoderated",
+      "description": "Moderated testing is to guide the users physically or virtually to participate in answering questions may have ask-follow up questions and record observations during the test. Unmoderated test is the use of usability tools to record their actions and responses. These two different approaches help your business for better reach to a real-end audience and their preferences in using your product."
+    },
+    {
+      "id": "3",
+      "title": "Remote or In-person ",
+      "description": "To test entirely at different locations we use remote usability test with the help of tools or software that allows users to share the screen and record their responses. At a physical location, we perform an In-person usability test usually at a usability lab or any other research space. This is mostly used for products that require safety considerations, Supervision during use or physical testing. So far we are experts in Remote testing maximizing user research minimizing cost-effective solutions and allocating dedicated teams to record the responses and actions in order to provide custom solutions as per the customer's satisfaction and needs."
+    },
+    {
+      "id": "4",
+      "title": "What do we do for you",
+      "description": "In Cresol We study the product or website you want to test, pick the study’s task, set a standard of path approach, delegate roles, find your participants, and analyze your data. It involves direct/ remote observation and interaction during testing sessions and all actions are recorded and actually performed in real life. Our coverage in usability testing",
+      "li1": "Assign Facilitator and researchers",
+      "li2": "Remove blinders",
+      "li3": "Direct users to perform tasks",
+      "li4": "Compile data and suggest changes",
+      "li5": "Measures engagement and validates the data",
+      "li6": "Provide user insights",
+      "li7": "Discovers user’s behaviour and preferences",
+      "li8": "Enhance quality and opportunities to improve the design"
+    }
+  ]
+}

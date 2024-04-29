@@ -1,0 +1,58 @@
+{
+  "breadCrumbTitle": "Branding",
+  "breadCrumbDescription": "Define your brand identity and stand out from the crowd with Cresol Infoserv's branding services. Let us help you tell your unique story.",
+  "description": [
+    {
+      "paragraph": "Every business should have a story behind its brand mark. This helps in creating images and values with a loyal customer who believes in your product and supports your vision. We create a back-end story that develops after a clear deep study of a company's vision, mission, and description evaluating the target audience."
+    },
+    {
+      "paragraph": "Cresol takes care of branding with a pride of expertise. We help a brand to get social with intelligible content, attractive graphics, and integrated strategy. Nowadays customers not only check a brand’s existence on social media and read reviews written by other users, but also check whether the brand is reactive or not."
+    }
+  ],
+  "image": "/assets/services/branding.jpg",
+  "heading": "What makes you need Branding?",
+  "list": [
+    {
+      "id": "1",
+      "li1": "Your company identity",
+      "li2": "You can’t communicate and engage in desirable behaviors",
+      "li3": "You don’t receive positive reinforcement",
+      "li4": "You want to create a brand image across social media platforms",
+      "li5": "You want to bridge the brand voice and tone with customer engagement."
+    },
+    {
+      "id": "2",
+      "heading":"Our Social Media Branding Strategies",
+      "title": "Brand Identity",
+      "description": "We design brand identity such as presenting the business itself to the public by visualizing the branding with the use of trademarks. We set your business apart and help it stand out from the rest of similar products. We guarantee uniqueness and allow potential customers in the market. Our experts built a shared understanding of the client product what it does, how it does, and other features that determine unique strategy for client vision through",
+
+      "li1": "Comprehensive business review",
+      "li2": "Establish brand positioning",
+      "li3": "Identify key issues",
+      "li4": "Develop a rock-hard plan"
+    },
+    {
+      "id": "3",
+      "title": "Brand Image",
+      "description": "Brand image is the customer's insights into your brand based on their interconnection. We assist brand personality, voice, and brand positioning in the marketplace. We use visible elements such as having an identifying symbol, mark, etc.. that make a difference between companies from rivals. Our elements contribute to customer interactions with your brand which culminates brand image that includes ",
+
+      "li1": "Feedback from customers",
+      "li2": "Improve your brand online",
+      "li3": "Case studies on various factors affecting brand image ",
+      "li4": "Build strong brand identity"
+    },
+    {
+      "id": "4",
+      "title": "Branding Kit",
+
+      "description": "We focus on building your own social media reputation and improve your marketing efforts. Based on your business keywords, content study, social media accounts, comments and impressions and audit of competitor activities our branding kit includes",
+
+      "li1": "Increasing Brand online presence and interactions",
+      "li2": "Build strategies to grow brand awareness and create sustainable traffic",
+      "li3": "Create content relevant to the target audience",
+      "li4": "Engage users on social media by measuring their results",
+      "li5": "Provide social media branding guidelines that include logos, color themes, font options etc,, for clients",
+      "li6": "Branding hashtags and hashtags related to brands product or services."
+    }
+  ]
+}

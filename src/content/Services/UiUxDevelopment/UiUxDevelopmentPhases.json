@@ -1,0 +1,26 @@
+{
+  "title": " Development Phases at Cresol",
+  "image": "/assets/services/webService.png",
+
+  "list": [
+    {
+      "id": 1,
+      "heading": "Development Phases at Cresol",
+      "title": "Planning:",
+      "number": "01",
+      "description": "Clients usually have an idea of what they want as the end result, but not what the software should go. Our skilled and Experienced experts help the clients define the software requirements and scope thereby generating a clear map for the client and our development teams. We it is this step where we generate maximum value for the clients."
+    },
+    {
+      "id": 2,
+      "title": "Implementation, testing and documenting:",
+      "number": "02",
+      "description": "All plans are as good as their implementation, At Cresol we understand that and our software experts ensure that we follow the code to the letter. Our Quality team ensures that defects are recognized as soon as possible."
+    },
+    {
+      "id": 3,
+      "title": "Deployment and maintenance:",
+      "number": "03",
+      "description": "One the product is accepted by the client we move towards deployment. Our support teams ensure that the applications have the right environment for the applications and take care of any eventualities. Cresol CRM team keeps an eye on the latest trends and updates our clients continually on how to improve their applications, adding value to your business even after the product has been delivered."
+    }
+  ]
+}

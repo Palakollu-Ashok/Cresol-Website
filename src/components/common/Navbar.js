@@ -126,7 +126,7 @@ const Navbar = () => {
     {
       id: 5,
       slug: "/ui-ux-design-service",
-      title: "/UI UX Design",
+      title: "UI/UX Design",
     },
     {
       id: 6,

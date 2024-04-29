@@ -1,0 +1,41 @@
+{
+  "breadCrumbTitle": "Mobile App Development ",
+  "breadCrumbDescription": " Create exceptional mobile experiences with Cresol Infoserv's mobile development services. Reach your audience on any device with our innovative solutions.",
+  "description": [
+    {
+      "paragraph": "We convert your theoretical ideas to a high-end, fully functioning mobile app. Collaborate with us through the path of designing, developing, testing, and deploying the apps, compatible with iOS and Android devices. Our team of experts verify end-to-end functionality according to the client’s requirement."
+    },
+    {
+      "paragraph": "We focus on delivering well-planned and creative mobile apps to take your business to the next level. Offering a range of solutions, from start-up apps to enterprise app development services, we attempt to streamline the workflow, combine functions, and boost the productivity of your enterprise.      "
+    }
+  ],
+  "image": "/assets/services/mobile-development.jpg",
+  "heading": "What do we do for you?",
+  "list": [
+    {
+      "id": "1",
+      "title": "MOBILE WEB DEVELOPMENT",
+      "description": "We design and develop mobile web apps for an ideal experience on phone. With a thorough understanding of industry demands, our goal is to deliver engaging mobile web apps for a great user experience.      "
+    },
+    {
+      "id": "2",
+      "title": "ANDROID APPS :      ",
+      "description": "Our team of Android developers come with years of industry expertise and could build high-standard and user-friendly Android apps, designed to outperform its contemporaries in the market.      "
+    },
+    {
+      "id": "3",
+      "title": "IPAD APPS :      ",
+      "description": "We have in-depth knowledge and skills that go into the creation of an app suited for iPads. Your concept can be translated to a big company, with our counsel and expertise.      "
+    },
+    {
+      "id": "4",
+      "title": "IPHONE APPS :",
+      "description": "Combining modern technology with years of industry experience, our app developers can design and build apps that are exclusive to iPhones. Your raw idea will take the shape of a real app, adding value, customers, and revenue to your business.      "
+    },
+    {
+      "id": "5",
+      "title": "CROSS-PLATFORM COMPATIBLE :",
+      "description": "Offering great user experience with ease of operations, our skilled developers provide seamlessly running and remarkably performing mobile apps that are compatible with all major platforms including iOS, Android, and Windows.      "
+    }
+  ]
+}

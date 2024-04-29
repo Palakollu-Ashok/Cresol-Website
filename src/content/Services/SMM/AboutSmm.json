@@ -1,0 +1,72 @@
+{
+  "breadCrumbTitle": "Social Media Marketing",
+  "breadCrumbDescription": "Engage your audience and build your brand with Cresol Infoserv's social media marketing services. Unlock the power of social platforms for your business.",
+  "description": [
+    {
+      "paragraph": "There are an estimated 4 billion social media users worldwide, and that number is growing rapidly. This is why Social Media Marketing plays a vital role in online business as well as an influential way to reach prospects and customers."
+    },
+    {
+      "paragraph": "Cresol can even make the smallest campaign budget, boost brand awareness, maximize available customer touchpoints, and finally drive increasing business revenue."
+    }
+  ],
+  "image": "/assets/services/smm-banner.jpg",
+  "heading": "What makes you need SMM",
+  "list": [
+    {
+      "id": "1",
+      "li1": "Your online exposure is not doing so hot",
+      "li2": "You would like to strengthen your SEO & PPC efforts",
+      "li3": "You feel that your customer traffic would be a lot better",
+      "li4": "You would like to enhance customer trustworthiness",
+      "li5": "You have a tangent product or service that needs to be exhibited",
+      "li6": "You want to identify a target audience globally"
+    },
+    {
+      "id": "2",
+      "title": "Providing SMM Solutions through our experts",
+      "description": "Cresol is committed to offering comprehensive support whether you are a startup, small or medium-sized business, or multinational enterprise, we have the expertise to provide end-to-end social media marketing solutions tailored to your specific needs driving"
+    },
+    {
+      "id": "3",
+      "title": "Social organic growth that includes",
+      "li1": "Social media management",
+      "li2": "Instagram growth marketing",
+      "li3": "Twitter marketing service",
+      "li4": "Optimize your social media",
+      "li5": "Grow your LinkedIn business page",
+      "desc": "Cresol creates a substantial impact on the target audience for the deadly competition that companies have to face today. We provide an efficient and reliable management system that always has your back through"
+    },
+    {
+      "id": "4",
+      "title": "Paid social basket that includes",
+
+      "li1": "Facebook adds services",
+      "li2": "Social media marketing packages",
+      "li3": "Facebook marketing packages",
+      "li4": "Online reputation management",
+      "li5": "You have a tangent product or service that needs to be exhibited",
+      "li6": "You want to identify a target audience globally",
+      "desc": "Cresol offers design, image, editing, resizing, and customizing in video marketing analysis for an existing or new creation. We bring your ranking using keyword research through branded content writing. We also provide video optimization, off-page optimization, Project reporting, and customer support. Discovering client needs"
+    },
+    {
+      "id": "5",
+      "title": "Lead generation using social media that includes",
+      "li1": "Generating leads through LinkedIn",
+      "li2": "Facebook lead generation machine",
+      "li3": "E-mail lead generation",
+      "li4": "Local business lead generation",
+
+      "desc": "Cresol offers design, image, editing, resizing, and customizing in video marketing analysis for an existing or new creation. We bring your ranking using keyword research through branded content writing. We also provide video optimization, off-page optimization, Project reporting, and customer support. Discovering client needs"
+    },
+
+    {
+      "id": "6",
+      "title": "Promote the brand with video marketing that includes",
+      "li1": "Video Marketing",
+      "li2": "YouTube Marketing services",
+      "li3": "Online goodwill management",
+      "li4": "Video Marketing packages",
+      "li5": "Online reputation management packages"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "breadCrumbTitle": "Functional Testing",
+  "breadCrumbDescription": "Ensure your software functions flawlessly with Cresol Infoserv's functional testing services. Trust our expertise for reliable and efficient testing.",
+  "description": [
+    {
+      "paragraph": "Automated Functional testing for upgrade quality and speedy go-to-market. In success or failure, Customer experience plays a vital role, we focus on performing end-to-end functional and non-functional testing for your mobile, web, and e-commerce, applications or for enterprise solutions such as CRM, ERP, and more."
+    },
+    {
+      "paragraph": "We ensure the verification and validation of applications for global enterprises. Meeting the end-user acceptance, our software testing team focuses on testing applications against defined specifications for seamless and robust functionality."
+    },
+    {
+      "paragraph": "With bottomless experience in both open source and commercial automation tools such as selenium, we take the functional testing approach that holds proven industry-standard testing techniques, tools, methodologies, and pre-requisites-built test accelerators. With no impact on the existing quality of applications, we have driven a regression testing approach that made clients understand the new feature enhancements have no effect on the current position of the Application. We help industries to achieve reduced test cycle time and improve end-user satisfaction through Functional testing."
+    }
+  ],
+  "image": "/assets/services/functional-testing.jpg",
+  "heading": "FUNCTIONAL TESTING METHODOLOGY",
+  "list": [
+    {
+      "id": "1",
+      "description": "Cresol functional testing methodology includes inputs connected to the probability or chance of business risk, technical risk, and project risk to ensure the most optimal testing that saves cost and time.",
+      "desc1": "A Requirements assessment framework (RAF) lucidity defects in the software life cycle requirement phase.",
+      "desc2": "A Test Requirements Traceability Matrix (TRTM) to ensure bi-directional traceability.",
+      "desc3": "Comprehensive Test Metrics that ensure transparency & visibility with unit testing, defect trends, testing productivity, process quality, and testing progress.",
+      "desc4": "Every day, weekly, and monthly status reports with in-depth analysis of test execution rank and deficiency, leveraging a variety of models and techniques to publish actionable dashboards and reports.",
+      "desc5": "All testing services are customized to fit the client’s lifecycle model and environment to offer seamless integration and conduct optimized testing while ensuring functional coverage."
+    },
+    {
+      "id": "2",
+      "title": "Unit Testing :",
+      "description": "Executing at the early stages of development, unit testing helps in the reduction of remarkable costs in defect fixing. Techniques used in testing include boundary value analysis, all-edge coverage, decision coverage, and statement coverage."
+    },
+    {
+      "id": "3",
+      "title": "Component testing :",
+      "description": "Component testing involves testing various software modules in isolation to identify the tests whether the components work together as expected after integrating with other components or not."
+    },
+    {
+      "id": "4",
+      "title": "System testing :",
+      "description": "This end-to-end testing involves determining that all the functional and business requirements are fulfilled. This also identifies any performance, functionality, or compatibility issues, decreasing the overall delivery time of the software."
+    },
+    {
+      "id": "5",
+      "title": "Integration testing :",
+      "description": "Integration testing validates that every component communicates and works together in a group to complete the software to ensure it functions appropriately."
+    },
+    {
+      "id": "6",
+      "title": "User Acceptance testing :",
+      "description": "Understanding the acceptance rate of your software by the end user. Performed after system testing, this black-box testing technique aims to ensure that client software requirements and needs are specified by the end users. This testing ensures that your application is accepted rapidly by the users, increasing your overall growth rate."
+    },
+    {
+      "id": "7",
+      "title": "Regression Testing :",
+      "description": "Regression testing ensures that any code modification does not introduce new issues to the software. It also fixes the implementation of new features that can bypass existing functionality."
+    },
+    {
+      "id": "8",
+      "title": "Smoke Testing :",
+      "description": "As the practice of testing electronic equipment, smoke testing is performed to understand whether the new code is stable enough to be tested further or not."
+    }
+  ]
+}
